@@ -40,7 +40,7 @@ ReactDOM.render(
       Dropdown
     </Dropdown.Button>
     <Dropdown.Button
-      onClick={handleButtonClick}
+  
       overlay={menu}
       disabled
       style={{ marginLeft: 8 }}
